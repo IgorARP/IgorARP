@@ -29,6 +29,6 @@
 
 
 - 🔭 Estou estudando programação
-- 🌱 Atualmente me aprofundando em C#
+- 🌱 Atualmente me aprofundando em Python
 - 😄 Pronomes: ele/dele
 - ⚡ Fun fact: curto RPG de mesa
