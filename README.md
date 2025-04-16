@@ -16,7 +16,7 @@
   <img align="center" alt="IgorARP-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="IgorARP-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="IgorARP-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="IgorARP-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="IgorARP-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
   
   ##
@@ -29,6 +29,6 @@
 
 
 - 🔭 Estou estudando programação
-- 🌱 Atualmente me aprofundando em Python
+- 🌱 Atualmente me aprofundando em Java
 - 😄 Pronomes: ele/dele
 - ⚡ Fun fact: curto RPG de mesa
