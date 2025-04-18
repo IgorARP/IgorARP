@@ -28,7 +28,7 @@
 </div>
 
 
-- 🔭 Estou estudando programação
+- 🔭 Desenvolvedor back-end
 - 🌱 Atualmente me aprofundando em Java
 - 😄 Pronomes: ele/dele
 - ⚡ Fun fact: curto RPG de mesa
